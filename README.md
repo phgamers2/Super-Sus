@@ -1,2 +1,2 @@
-# Super-Sus
+# ChickenGun
 Free password
